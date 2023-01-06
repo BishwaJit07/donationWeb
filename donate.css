@@ -7,9 +7,9 @@
 
 .hover{
 
-   background-image: url(../images/donation13.jpg);
+   background-image: url(./images/donation13.jpg);
   
-
+  
    background-size: contain;
 background-repeat: no-repeat;
 background-position:center;
